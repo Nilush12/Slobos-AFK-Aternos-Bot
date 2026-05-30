@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "lushmc67.play.hosting",
-    "port": 27586,
+    "port": ,
     "version": "1.21.8",
     "try-creative": false
   },
