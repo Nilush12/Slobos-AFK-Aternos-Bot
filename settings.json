@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "lushmc67.play.hosting",
     "port": 27586,
-    "version": "",
+    "version": "1.21.8",
     "try-creative": false
   },
   "position": {
